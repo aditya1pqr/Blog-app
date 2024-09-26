@@ -7,7 +7,7 @@ function App() {
   return (
   
     <>
-      <h1> React With appWrite</h1>
+      <h1 className='bg-red-400'> React With appWrite</h1>
     </>
   )
 }
